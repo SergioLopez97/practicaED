@@ -31,8 +31,8 @@ public final class Hipermercado extends Tienda{
 	public int getMetros2H() {
 		return this.getMetros2()*3;
 	}
-
-
+	
+	//metodo que controla los empleados
 
 	@Override
 	public int empleadosSeccion() {

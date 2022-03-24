@@ -28,6 +28,7 @@ public class UsoTiendas {
 				Hipermercado hipermercado = new Hipermercado(secciones);
 				altaTienda(hipermercado);
 				System.out.println();
+				System.out.println();
 				break;
 
 			case 2:

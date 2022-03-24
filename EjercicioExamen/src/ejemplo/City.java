@@ -32,6 +32,8 @@ public final class City extends Tienda{
 		return this.getMetros2() * 3;
 	}
 
+	//metodo que controla los empleados
+	
 	@Override
 	public int empleadosSeccion() {
 		int numEmpleadosSeccion = 0;

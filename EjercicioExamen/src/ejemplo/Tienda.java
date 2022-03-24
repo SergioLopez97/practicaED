@@ -19,7 +19,7 @@ public abstract class Tienda {
 		numeroTiendas++;
 	}
 	
-	//getters and setters
+	//getters and setters metodos
 	
 	public int getEmpleados() {
 		return empleados;

@@ -22,6 +22,8 @@ public final class Supermercado extends Tienda {
 			this.SeccionesS = SeccionesS;
 		}
 		
+		//metodo que lleva la cuenta de los empleados
+		
 		@Override
 		public int empleadosSeccion() {
 			int numEmpleadosSeccion=0;
