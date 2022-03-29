@@ -10,6 +10,7 @@ public final class City extends Tienda{
 
 	public City(int SeccionesC) {
 			this.SeccionesC = SeccionesC;
+			System.out.println("Constructor de tipo City");
 		}
 
 	// getters and setters
